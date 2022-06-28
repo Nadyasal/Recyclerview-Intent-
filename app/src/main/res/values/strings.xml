@@ -1,0 +1,44 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Test Intern</string>
+
+    <string-array name="barang">
+        <item>Ayam Geprek</item>
+        <item>Bubur Ayam</item>
+        <item>Donat Gula Halus</item>
+        <item>Mie Nyemek</item>
+        <item>Nasi Gila</item>
+    </string-array>
+
+    <string-array name="ket">
+        <item>ayam dengan sambel geprek yang nikmat dan pedas sekali</item>
+        <item>bubur dengan rasa gurih dengan campuran kerupuk dan suwiran ayam</item>
+        <item>donat dengan topping gula halus yang manis</item>
+        <item>mie icikiwir dengan campuran potongan ayam dan juga sayur yang nikmat</item>
+        <item>nasi gilaaa dengan campuran sosis, ayam, dan bumbu saus asam manis</item>
+    </string-array>
+
+    <string-array name="stok">
+        <item>25</item>
+        <item>15</item>
+        <item>50</item>
+        <item>14</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="kode">
+        <item>abc1567</item>
+        <item>ghi88954</item>
+        <item>xcv101</item>
+        <item>lolk9965</item>
+        <item>loiu9965</item>
+    </string-array>
+
+    <string-array name="harga">
+        <item>22.000</item>
+        <item>18.000</item>
+        <item>14.000</item>
+        <item>23.500</item>
+        <item>21.000</item>
+    </string-array>
+
+</resources>
